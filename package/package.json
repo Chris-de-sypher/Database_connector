@@ -1,0 +1,26 @@
+{
+  "name": "@chris-de-sypher/dbconnector",
+  "version": "1.0.0",
+  "description": "Easily connect your database (MongoDB)",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-de-sypher/Database_connector.git"
+  },
+  "keywords": [
+    "DB_connector"
+  ],
+  "author": "Chris-de-sypher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-de-sypher/Database_connector/issues"
+  },
+  "homepage": "https://github.com/Chris-de-sypher/Database_connector#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.4.5"
+  }
+}
